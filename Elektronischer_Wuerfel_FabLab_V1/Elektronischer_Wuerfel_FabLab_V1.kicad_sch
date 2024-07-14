@@ -1994,18 +1994,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "7c3205f4-1a44-484e-95c0-cd76146968d5")
-	)
-	(label "A"
-		(at 144.78 60.96 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "82ceed61-4f4c-4735-a657-11d209c3f94e")
+		(uuid "8ef63680-5b9d-46bd-92a9-dc95e56444d2")
 	)
 	(label "Tilt"
 		(at 78.74 62.23 0)
